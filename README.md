@@ -18,7 +18,7 @@ Soy un desarrollador fullstack apasionado por crear aplicaciones eficientes y op
 - AWS
 
 #### 💼 Experiencia
-- Becario Analista de Datos y Desarrollador de IA en NTT Data.
+- Becario Analista de Datos y Desarrollador de IA en NTT Data
 - Becario en Desarrollo Web en Altia
 
 #### 🔍 Titulación
@@ -34,6 +34,7 @@ Soy un desarrollador fullstack apasionado por crear aplicaciones eficientes y op
 ---
 
 ### 🚀 Repositorios Destacados
-1. **[Análisis de Datos](https://github.com/Panapv/Breast-Cancer)** - Projecto de ETL, Análisis y creación de un modelo de Inteligencia Artificial
+1. **[Análisis de Datos, Automatización de Procesos y Desarrollo de Modelos IA](https://github.com/Panapv/Breast-Cancer)** - Proyecto de ETL, Análisis y creación de un modelo de Inteligencia Artificial
+2. **[APIs e Integraciones](https://github.com/Panapv/panabot)** - Creación de un Chatbot con implementación de APIs en telegram
 
 ---
