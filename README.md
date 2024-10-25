@@ -17,8 +17,14 @@ Soy un desarrollador fullstack apasionado por crear aplicaciones eficientes y op
 - Docker
 - AWS
 
-#### 🔍 En qué estoy trabajando actualmente
-Actualmente, desarrollo proyectos de integración entre servicios y modelos de datos que ayudan a equipos a mejorar su productividad y análisis en tiempo real. Estoy muy enfocado en la **optimización de procesos** y la **automatización de tareas**.
+#### 💼 Experiencia
+- Becario Analista de Datos y Desarrollador de IA en NTT Data.
+- Becario en Desarrollo Web en Altia
+
+#### 🔍 Titulación
+- Desarrollo de aplicaciones Multiplataforma
+- Desarrollo de aplicaciones Web
+- Especialización en Inteligencia Artificial y Big Data
 
 
 #### 📫 Conectemos
