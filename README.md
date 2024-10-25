@@ -1,7 +1,3 @@
-Aquí tienes un modelo de presentación que podrías usar en tu perfil de GitHub:
-
----
-
 ### 👋 Hola, soy **Pablo Pérez Vázquez**
 
 🌐 **Desarrollador de Software Fullstack** y **Analista de Datos**
