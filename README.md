@@ -18,6 +18,7 @@ Soy un desarrollador fullstack apasionado por crear aplicaciones eficientes y op
 - AWS
 
 #### 💼 Experiencia
+- 1 año como desarrollador Fullstack en Lucuslog S.L.
 - Becario Analista de Datos y Desarrollador de IA en NTT Data
 - Becario en Desarrollo Web en Altia
 
